@@ -65,3 +65,4 @@ My mission is to make technology **accessible**, **inclusive**, and **transforma
 ---
 
 ### ✨ “Creating technology that empowers, not replaces — Africa’s innovation starts with us.”  
+
